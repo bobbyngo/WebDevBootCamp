@@ -1,4 +1,4 @@
-# WebBootCamp
+# WebDevBootCamp
 # Set up
 ```
 npm i all
