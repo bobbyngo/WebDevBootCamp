@@ -7,6 +7,7 @@ mongod
 open another window powershell
 mongo
 # Run the app
-localhost:3000
+node app.js
+visit the site: localhost:3000
 # Demo
 https://sheltered-taiga-45619.herokuapp.com/campgrounds
