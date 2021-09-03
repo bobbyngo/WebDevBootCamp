@@ -1,4 +1,7 @@
 # WebDevBootCamp
+```
+YelpCamp project based on Colt Steele
+```
 # Set up
 ```
 npm i all
