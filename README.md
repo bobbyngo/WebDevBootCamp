@@ -1,7 +1,7 @@
 # WebDevBootCamp
-```
-YelpCamp project based on Colt Steele
-```
+
+> YelpCamp project based on Colt Steele
+
 # Set up
 ```
 npm i all
@@ -9,13 +9,13 @@ npm i all
 # Server
 open window powershell
 ```
-mongod
+type mongod
 ```
 open another window powershell
 ```
-mongo
+type mongo
 ```
-# Run the app
+# Run the app by open Git Bash
 ```
 node app.js
 visit the site: localhost:3000
